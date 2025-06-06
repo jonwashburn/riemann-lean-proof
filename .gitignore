@@ -1,0 +1,19 @@
+# Lean build artifacts
+.lake/
+build/
+lake-manifest.json
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp 
